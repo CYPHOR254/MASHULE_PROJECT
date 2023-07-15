@@ -1,0 +1,41 @@
+.numbered-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .numbered-list li {
+    margin: 0 10px;
+  }
+  
+  .numbered-list li a {
+    display: block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .numbered-list li a:hover {
+    background-color: #ccc;
+  }
+  
+  /* Style for the section content */
+  div[id^="section-"] {
+    margin: 50px 0;
+    padding: 20px;
+    background-color: #eee;
+    border: 1px solid #ccc;
+  }
+  
+  .bg-register-image {
+    background: url(../../assets/img/gilr+books.jpeg);
+    background-position: center;
+    background-size: cover
+}

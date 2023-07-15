@@ -1,0 +1,62 @@
+{
+  "user": [
+
+    {
+      "firstName": "morris",
+      "lastName": "Murega",
+      "email": "murega.morris@ekenya.co.ke",
+      "phoneNumber": 759432206,
+      "password": "Test$1234",
+      "gender": "male",
+      "schoolName": "muthambi",
+      "location": "chuka",
+      "numberOfStreams": "3",
+      "numberOfStudents": "490",
+      "schoolEvents": "drama ",
+      "role": "user",
+      "isactive": true,
+      "id": 3
+    },
+    {
+      "firstName": "Earvine",
+      "lastName": "kinyua",
+      "email": "muneneearvine@gmail.com",
+      "phoneNumber": 759432206,
+      "password": "Asap@11234",
+      "gender": "male",
+      "schoolName": "chuka boys",
+      "location": "chuka",
+      "numberOfStreams": "8",
+      "numberOfStudents": "1579",
+      "schoolEvents": "music drama",
+      "role": "",
+      "isactive": false,
+      "id": 4
+    },
+    {
+      "firstName": "Morris",
+      "lastName": "Murega",
+      "email": "muneneearvine254@gmail.com",
+      "phoneNumber": 745384538,
+      "idNumber": 453672,
+      "DOB": "2023-05-11",
+      "password": "3xugNVZp4j!",
+      "confirmPassword": "3xugNVZp4j!",
+      "gender": "male",
+      "schoolName": "muthambi",
+      "location": "marima",
+      "numberOfStreams": 6,
+      "numberOfStudents": 579,
+      "schoolEvents": "DRAMA and Music",
+      "role": "",
+      "isactive": true,
+      "id": 8
+    }
+  ],
+  "role": [
+    {
+      "code": "user",
+      "name": "User"
+    }
+  ]
+}

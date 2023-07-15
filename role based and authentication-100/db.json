@@ -1,0 +1,81 @@
+{
+  "user": [
+    {
+      "firstName": "morris",
+      "lastName": "Murega",
+      "email": "murega.morris@ekenya.co.ke",
+      "phoneNumber": 759432206,
+      "password": "Test$1234",
+      "gender": "male",
+      "schoolName": "muthambi",
+      "location": "chuka",
+      "numberOfStreams": "3",
+      "numberOfStudents": "490",
+      "schoolEvents": "drama ",
+      "role": "admin",
+      "isactive": true,
+      "id": 3
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "schoolName": "",
+      "numberOfStudents": "",
+      "role": "user",
+      "isactive": true,
+      "id": 4
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "schoolName": "",
+      "numberOfStudents": "",
+      "role": "user",
+      "isactive": false,
+      "id": 8
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "schoolName": "",
+      "numberOfStudents": "",
+      "role": "user",
+      "isactive": true,
+      "id": 9
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "schoolName": "",
+      "numberOfStudents": "",
+      "role": "user",
+      "isactive": true,
+      "id": 10
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "schoolName": "",
+      "numberOfStudents": "",
+      "role": "user",
+      "isactive": true,
+      "id": 11
+    }
+  ],
+  "role": [
+    {
+      "code": "user",
+      "name": "User"
+    }
+  ]
+}
